@@ -1,0 +1,17 @@
+root = true
+
+# Common settings
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = tab
+trim_trailing_whitespace = false
+
+# HTML
+[*.{html,htm,jsp,ejs}]
+indent_size = 2
+indent_style = space
+
+
+
